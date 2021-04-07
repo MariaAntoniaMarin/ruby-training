@@ -1,4 +1,4 @@
-puts "Hello Word"
+puts "Hello World"
 
 # Multiple statements on a single line is allowed.
 puts "Hello world"; puts "I'm alive and well!"
