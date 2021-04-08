@@ -17,5 +17,3 @@ last_name = "Potter"
 
 p first_name << last_name << " Wizzard" #=> Harry Potter Wizzard
 p first_name #=> Harry Potter Wizzard
-
-
