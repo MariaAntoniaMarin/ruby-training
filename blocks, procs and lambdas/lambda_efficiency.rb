@@ -1,9 +1,9 @@
 def convert_to_euros(dollars)
-    dollars * 0.95 if dollars.is_a?(Numeric)
+  dollars * 0.95 if dollars.is_a?(Numeric)
 end
 
 def convert_to_pesos(dollars)
-    dollars * 20.67 if dollars.is_a?(Numeric)
+  dollars * 20.67 if dollars.is_a?(Numeric)
 end
 
 p convert_to_euros(1000) #=> 950.0
